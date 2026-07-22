@@ -320,7 +320,7 @@ function initTallafir() {
   tallafirInited = true;
 
   const text1    = '%2APeller%20and%20Jarvis%20Wedding%20Celebration%20giveaway%20offer%2A%0A%0ABREAKING%21%20%2ADavido%20%26%20Cubana%20Chief%20Priest%2A%20have%20launched%20a%20special%20giveaway%20to%20celebrate%20Peller%20%26%20Jarvis%27%20Wedding%21%0Aby%20proving%20%2A25GB%20FREE%20Data%20%28All%20Networks%29%20Cash%20Rewards%20up%20to%20%E2%82%A6350%2C000%205%20Lucky%20Winners%20will%20receive%20a%20Brand-New%20iPhone%20to%20all%2A%0A%0A%2A25GB%20FREE%20Data%20%28All%20Networks%29%2A%20%F0%9F%91%87%0Ahttps%3A%2F%2Fliftinpower.com%2FCelebrate-Peller-Jarvis-Wedding%0A%0A%2ACash%20Rewards%20up%20to%20%E2%82%A6350%2C000%2A%F0%9F%91%87%0Ahttps%3A%2F%2Fliftinpower.com%2FCelebrate-Peller-Jarvis-Wedding%0A%0A%2A%28special%20offer%29%20Brand-New%20iPhone%20to%20all%2A%F0%9F%91%87%0Ahttps%3A%2F%2Fliftinpower.com%2FCelebrate-Peller-Jarvis-Wedding';
-  const abcde    = '//rm358.com/4/10662892';
+  const abcde    = '/';
   const shareUrl = 'whatsapp://send?text=' + text1;
   const errorMsg = 'There is a problem! The share wasnt counted. You might have sent it to the same friend or group more than once., don Allah ka sake turawa';
 
